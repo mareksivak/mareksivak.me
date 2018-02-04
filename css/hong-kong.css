@@ -165,8 +165,10 @@ ul {
     padding-right: 2rem;
     
 }
+.another-story .label {
+    margin-bottom: 2rem;
+}
 .another-story h3 {
-    margin-top: 0.5rem;
     max-width: 400px;
 }
 .another-img {
